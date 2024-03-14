@@ -1,0 +1,38 @@
+
+[
+    
+    
+    {
+      "role": "SWE Intern",
+      "organisation": "Ecobank E-Process",
+      "startDate": "August 28th, 2023",
+      "endDate": "September 29th, 2023",
+      "experiences": [
+        "GitHub Collaboration",
+        "Web Development with React",
+        "Mobile App development"
+      ],
+      "imageSrc": "history/ecobank.png"
+    },
+
+    {
+      "role": "Intern",
+      "organisation": "TotalEnergies",
+      "startDate": "August 16th, 2022",
+      "endDate": "September 30th, 2022",
+      "experiences": ["Ticket Management", "Inventory Management","Collaboration","Software Installation and setup","Technical Support"],
+      "imageSrc": "history/totalenergies.png"
+    },
+    {
+      "role": "Intern",
+      "organisation": "Guaranty Trust Bank Plc",
+      "startDate": "August 8th, 2019",
+      "endDate": "August 21st, 2019",
+      "experiences": ["Visited construction sites","Contributed to the design of buildings", 
+      	"Inspected property for branch development",
+      	"Learned building techniques from site workers ",
+      	"Filing of documents"
+      ],
+      "imageSrc": "history/gtbank.png"
+    }
+  ]
