@@ -27,18 +27,18 @@ export const About = () => {
                 </div>
             </li>
             <li className={styles.aboutItem}>
-                <img src={getiImageUrl("about/frontendIcon.png")} alt="Front-end icon" />
+                <img src={getiImageUrl("about/frontendIcon.png")} alt="Full Stack icon" />
                 <div className={styles.aboutItemText}>
                     <h3>
-                        Front-end Developer
+                        Full Stack Developer
                     </h3>
                     <p>
-                    Frontend development is my forte, 
-                    where my skills as an intermediate developer truly shine.
-                    I thrive on the challenge of translating designs into interactive, 
-                    user-friendly experiences. Whether I'm perfecting the layout of a webpage or optimizing its performance,
-                    I'm deeply committed to refining my craft. As I navigate the dynamic world of web technologies, 
-                    I'm eager to continue honing my skills and exploring new techniques to create impactful digital experiences.
+                    As a full-stack developer,
+                     my skills truly shine in both frontend and backend development. 
+                     I thrive on the challenge of building seamless, user-friendly experiences while ensuring the underlying systems are robust and scalable. 
+                     Whether I'm translating designs into interactive web interfaces or optimizing server-side performance, 
+                     I'm deeply committed to refining my craft. As I navigate the dynamic world of web technologies, 
+                     I'm eager to continue honing my skills and exploring new techniques to deliver impactful and well-rounded digital solutions.
                      </p>
                 </div>
             </li>

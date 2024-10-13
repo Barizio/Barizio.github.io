@@ -1,5 +1,13 @@
 [
     {
+      "title": "AFARÀ AI",
+      "imageSrc": "projects/Afara.jpeg",
+      "description": "an AI model that encourages cultural heritage",
+      "skills": ["ML/AI"],
+      "demo": "https://www.linkedin.com/posts/adebare-adesokan-570b7b260_hackathon-teamwork-ai-activity-7206233774013968384-BLO5?utm_source=share&utm_medium=member_desktop",
+      "source": "https://www.linkedin.com/posts/adebare-adesokan-570b7b260_hackathon-teamwork-ai-activity-7206233774013968384-BLO5?utm_source=share&utm_medium=member_desktop"
+    },
+    {
       "title": "Portfolio Website",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the basic front-end as well as keep track of progressions in my career.",
@@ -7,5 +15,6 @@
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }
+
   ]
   

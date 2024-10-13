@@ -1,7 +1,22 @@
 
 [
     
-    
+  {
+    "role": "SWE Intern",
+    "organisation": "Ecobank E-Process",
+    "startDate": "July 15th, 2024",
+    "endDate": "October 4th, 2024",
+    "experiences": [
+      "Developed and maintained backend APIs using Spring Boot, ensuring efficient handling of user requests.",
+      "Designed and implemented a MySQL database schema to support application functionality and data integrity.",
+	    "Integrated MySQL with Spring Boot for seamless data storage, retrieval, and management.",
+      "Collaborated with front-end developers to ensure smooth API communication and optimized performance.",
+      "Troubleshot and resolved bugs, improving system reliability and user experience.",
+    "Worked on optimizing database queries, enhancing overall application performance."
+
+    ],
+    "imageSrc": "history/ecobank.png"
+  },
     {
       "role": "SWE Intern",
       "organisation": "Ecobank E-Process",
