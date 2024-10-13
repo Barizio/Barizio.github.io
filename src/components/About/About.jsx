@@ -15,14 +15,12 @@ export const About = () => {
                         Computer scientist
                     </h3>
                     <p>
-                    Ever since I discovered computer science, 
-                    I've been fascinated by its potential to shape the world around us.
-                    From coding elegant algorithms to building complex systems, 
-                    I'm drawn to the creativity and problem-solving it requires.
-                    Exploring its interdisciplinary nature,
-                    I'm constantly inspired by the diverse applications of technology. 
-                    With each challenge,
-                    I'm driven by a relentless curiosity to innovate and make meaningful contributions to the field.
+                    Since discovering computer science, my passion for innovation has only grown stronger, 
+                    particularly in how technology can be used to bridge gaps and drive meaningful change. 
+                    I’m deeply committed to revolutionizing the African tech space by developing solutions that address local challenges and empower communities.
+                     The idea of creating technology that not only solves problems but also fosters growth, connectivity, and development excites me. I believe Africa holds immense potential, 
+                     and my goal is to push boundaries and introduce cutting-edge advancements that elevate the continent's presence in the global tech arena. With every project, 
+                    I'm driven to contribute to a future where Africa is recognized as a leader in innovation and technological progress.
                      </p>
                 </div>
             </li>
